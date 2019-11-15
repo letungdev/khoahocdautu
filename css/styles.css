@@ -169,7 +169,7 @@ Colors:
 /*     01. GENERAL STYLES     */
 /******************************/
 body {
-	color: #fff;
+	color: #black;
 	font: 300 16px/1.6em "Ubuntu", sans-serif;
 }
 
@@ -203,7 +203,7 @@ p.seventy-percent-width {
 }
 
 a {
-	color: #00bb5c;
+	color: #101010;
 	text-decoration: none;
 }
 
@@ -928,7 +928,7 @@ img.decorative-line {
 .testimonials {
 	padding-top: 40px;
 	padding-bottom: 40px;
-	background: #24252c; 
+	background: #eff171; 
 	text-align: center;
 }
 
@@ -981,7 +981,7 @@ img.decorative-line {
 .overview {
 	position: relative;
 	padding-top: 60px;
-	background: #1a1b20;
+	background: #fcfcee;
 	text-align: center;
 }
 
@@ -1001,7 +1001,7 @@ img.decorative-line {
 .duration {
 	padding-top: 60px;
 	padding-bottom: 90px;
-	background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('../images/duration-background.jpg') center no-repeat;
+	/*background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('../images/duration-background.jpg') center no-repeat;*/
 	background-size: cover;
 }
 
@@ -1011,7 +1011,7 @@ img.decorative-line {
 	margin-top: 60px;
 	padding: 18px 22px 20px 20px;
 	border: 1px solid #52555f;
-	background-color: #52555f;
+	background-color: #fcfcee;
 	border-radius: 6px;
 }
 
@@ -1053,7 +1053,7 @@ img.decorative-line {
 .details {
 	padding-top: 65px;
 	padding-bottom: 90px;
-	background-color: #24252c;
+	background-color: #f1efc4;
 }
 
 .details .decorative-line {
@@ -1084,7 +1084,7 @@ img.decorative-line {
 .details .nav-pills li a:hover {
 	border: 1px solid #00bb5c;
 	background-color: #00bb5c;
-	color: #fff;
+	color: #333;
 }
 
 .details .tab-content {
@@ -1116,7 +1116,7 @@ img.decorative-line {
 	border: 1px solid transparent;
 	border-radius: 25px;
     background-color: transparent;
-    color: #fff;
+    color: #333		;
     font: 500 22px/1.2em "Ubuntu", sans-serif;
 	transition: all 0.3s ease;
 }
@@ -1246,7 +1246,8 @@ img.decorative-line {
 .pricing {
 	padding-top: 60px;
 	padding-bottom: 90px;
-	background: linear-gradient(rgba(0, 187, 92, 0.0), rgba(0, 187, 92, 0.0)), url('../images/pricing-background.jpg') center no-repeat;
+	/*background: linear-gradient(rgba(0, 187, 92, 0.0), rgba(0, 187, 92, 0.0)), url('../images/pricing-background.jpg') center no-repeat;*/
+	background-color: #fcfcee;
 	background-size: cover;
 	text-align: center;
 }
@@ -1314,7 +1315,7 @@ img.decorative-line {
 /***********************/
 .facts-1 {
 	padding-bottom: 75px;
-	background-color: #00bb5c;
+	background-color: #faf8dd;
 }
 
 .facts-1 .facts-1-image-pane {
@@ -1345,7 +1346,7 @@ img.decorative-line {
 /***********************/
 .facts-2 {
 	padding-bottom: 75px;
-	background-color: #00bb5c;
+	background-color: #faf8dd;
 }
 
 .facts-2 hr.under-heading {
@@ -1377,7 +1378,7 @@ img.decorative-line {
 .instructors {
 	padding-top: 60px;
 	padding-bottom: 45px;
-	background-color: #1a1b20;
+	background-color: #fdfcf0;
 }
 
 .instructors .decorative-line {
@@ -1428,7 +1429,7 @@ img.decorative-line {
 }
 
 .instructor-pane a {
-	color: #fff;
+	color: ##333;
 }
 
 .instructor-pane h5 {
