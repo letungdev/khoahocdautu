@@ -1129,7 +1129,7 @@ img.decorative-line {
 .panel-group .panel-title a.collapsed {
 	border: 1px solid transparent;
 	background-color: transparent;
-    color: #fff;
+    color: #333;
 }
 .panel-group .panel-title a.collapsed:hover {
     background-color: transparent;
